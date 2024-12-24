@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/photo-booth/static/css/main.0ab1619a.css",
-    "main.js": "/photo-booth/static/js/main.63d59866.js",
-    "static/media/frame5.png": "/photo-booth/static/media/frame5.08491b50f30b36ec7cc6.png",
-    "static/media/frame4.png": "/photo-booth/static/media/frame4.60a8729e5e3fd4fb7b5b.png",
-    "static/media/frame3.png": "/photo-booth/static/media/frame3.7d0cdf0ba4793732620c.png",
-    "static/media/frame1.png": "/photo-booth/static/media/frame1.465e7254dc30ff22cbe6.png",
-    "static/media/logo.png": "/photo-booth/static/media/logo.86d0518c5dd7014b52e4.png",
-    "static/media/frame2.png": "/photo-booth/static/media/frame2.b8c35726ae7a6f2c1076.png",
-    "index.html": "/photo-booth/index.html",
-    "main.0ab1619a.css.map": "/photo-booth/static/css/main.0ab1619a.css.map",
-    "main.63d59866.js.map": "/photo-booth/static/js/main.63d59866.js.map"
+    "main.css": "/Moawiah-Eqailan/photo-booth/static/css/main.0ab1619a.css",
+    "main.js": "/Moawiah-Eqailan/photo-booth/static/js/main.be21b901.js",
+    "static/media/frame5.png": "/Moawiah-Eqailan/photo-booth/static/media/frame5.08491b50f30b36ec7cc6.png",
+    "static/media/frame4.png": "/Moawiah-Eqailan/photo-booth/static/media/frame4.60a8729e5e3fd4fb7b5b.png",
+    "static/media/frame3.png": "/Moawiah-Eqailan/photo-booth/static/media/frame3.7d0cdf0ba4793732620c.png",
+    "static/media/frame1.png": "/Moawiah-Eqailan/photo-booth/static/media/frame1.465e7254dc30ff22cbe6.png",
+    "static/media/logo.png": "/Moawiah-Eqailan/photo-booth/static/media/logo.86d0518c5dd7014b52e4.png",
+    "static/media/frame2.png": "/Moawiah-Eqailan/photo-booth/static/media/frame2.b8c35726ae7a6f2c1076.png",
+    "index.html": "/Moawiah-Eqailan/photo-booth/index.html",
+    "main.0ab1619a.css.map": "/Moawiah-Eqailan/photo-booth/static/css/main.0ab1619a.css.map",
+    "main.be21b901.js.map": "/Moawiah-Eqailan/photo-booth/static/js/main.be21b901.js.map"
   },
   "entrypoints": [
     "static/css/main.0ab1619a.css",
-    "static/js/main.63d59866.js"
+    "static/js/main.be21b901.js"
   ]
 }
