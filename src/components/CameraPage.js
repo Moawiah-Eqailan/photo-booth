@@ -141,7 +141,7 @@ function CameraPage({ capturePhoto, selectedFrame }) {
             <button id="start-btn" onClick={startCountdown}>التقاط</button>
             <canvas ref={canvasRef} style={{ display: 'none' }}></canvas>
 
-            {countdown > 0 && <div className="countdown">{countdown}</div>}
+            {countdown > 0 && <div className="countdown" style={{ fontSize: '110px' }}>{countdown}</div>}
         </div>
     );
 }
