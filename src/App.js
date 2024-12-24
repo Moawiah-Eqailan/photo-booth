@@ -29,7 +29,7 @@ function App() {
 
   return (
       <Routes>
-        <Route path="/" element={<WelcomePage startCamera={startCamera} />} />
+        <Route path="/welcomePage" element={<WelcomePage startCamera={startCamera} />} />
         <Route
           path="/frame-selection"
           element={<FrameSelectionPage selectFrame={selectFrame} imagePath={imagePath} />}

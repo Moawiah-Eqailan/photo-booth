@@ -53,7 +53,7 @@ function ShowQrcode() {
                 <br />
                 <br />
 
-                <a href='/'><button id='start-btn'>العودة الصفحة الرئيسية</button></a>
+                <a href='/welcomePage'><button id='start-btn'>العودة الصفحة الرئيسية</button></a>
             </div>
         ) : (
             <p>لم يتم العثور على بيانات.</p>  
